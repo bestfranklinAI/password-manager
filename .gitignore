@@ -1,0 +1,5 @@
+# Ignore database folder
+database/
+
+# Ignore files with .kbdx extension
+*.kdbx
