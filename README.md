@@ -2,7 +2,7 @@
 ## Self-Hosted Password Manager
 Welcome to our self-hosted password manager! This tool is designed to help you securely organize and manage your passwords locally, ensuring that your sensitive information remains private and under your control.
 
-Hosted Webpage: [password-manager-mocha.vercel.app](password-manager-mocha.vercel.app
+Hosted Webpage: [password-manager](https://password-manager-mocha.vercel.app
 )
 
 
